@@ -21,3 +21,10 @@
 
 
 - **Nothing more to say. if you want to do it you have to do it till the End & You will get success if you are doing hardwork right now.**
+
+**Interests**
+- Travelling
+- Instagram
+- Machine Learning
+- AI
+- Business 
