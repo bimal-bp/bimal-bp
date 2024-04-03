@@ -4,7 +4,7 @@
 <!-- [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdullaharif.tech%2F)](https://abdullaharif.tech/)  -->
 [![Gmail Badge](https://img.shields.io/badge/bimalbp9-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:bimalbp9@gmail.com)](mailto:bimalbp9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/bimalts789-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bimalts789/)
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://bimal-bp.github.io/Portfolio/)
 
 ### SKILLS 
 
